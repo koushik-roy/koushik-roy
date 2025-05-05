@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Koushik Roy
 
-I'm a **passionate fullstack developer** with a strong foundation in **Java** and **Spring Boot**, and growing expertise in frontend frameworks like **React** and **Angular**. I enjoy building scalable systems and clean architectures.
+💻 Software Engineer | 🚀 Tech Enthusiast | 💡 Problem Solver
+
 
 ---
 
@@ -12,16 +13,21 @@ I'm a **passionate fullstack developer** with a strong foundation in **Java** an
 - 🗣️ Discussing **clean code**, **productivity hacks**, and **developer best practices**
 
 ---
+## 🛠 Tech Stack & Tools
 
-## 🙌 About Me
-
-- 🔭 I’m currently working on: refining scalable microservices and experimenting with containerization  
-- 🌱 I’m currently learning: .NET and Kubernetes    
-- 💬 Ask me about: Java, Spring Boot, API design, frontend integration, or anything tech!  
-- 📫 How to reach me: Just drop a message on GitHub – I’m always up for a good dev chat  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: If this can be coded, there's probably a Spring Boot starter for it. ✨
-
+<p>
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/-AngularJS-DD0031?style=for-the-badge&logo=angularjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</p>
 ---
 
 _Thanks for stopping by! Feel free to explore my repos and connect._ 🚀
