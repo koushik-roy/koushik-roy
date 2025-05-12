@@ -33,6 +33,4 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=koushik-roy&show_icons=true&count_private=true&hide=stars&theme=radical)
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=koushik-roy&theme=react-dark)
-
 _Thanks for stopping by! Feel free to explore my repos and connect._ 🚀
