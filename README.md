@@ -30,7 +30,8 @@
 
 ## 🧮 My GitHub Stats
 
-(https://github-readme-stats.vercel.app/api?username=koushik-roy&show_icons=true&count_private=true&hide=stars&theme=radical)
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=koushik-roy&show_icons=true&count_private=true&hide=stars&theme=radical)
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=koushik-roy&theme=react-dark)
 
